@@ -9,8 +9,8 @@
 apt update && upgrade -y 
 pkg install git python mpv figlet -y
 pip install lolcat
-git clone https://github.com/fikrado/qurxin
-cd qurxin
+git clone https://github.com/Kategawa3/termux-weeb-theme
+cd termux-weeb-theme 
 chmod +x *
 sh install.sh
 exit
